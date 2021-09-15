@@ -61,7 +61,7 @@ body {
     position: absolute;
     top: 1px;
     left: 2px;
-    background: url("./images/check-solid.svg") no-repeat;
+    background: url("https://dimakoba.github.io/quiz-plugin/images/check-solid.svg") no-repeat;
     width: 18px;
     height: 18px;
     opacity: 0;
